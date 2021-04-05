@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1617596145960,
+  "timestamp": 1617597019767,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -18,7 +18,7 @@
         "/polyfills.4c6294a6c8bdfe182842.js",
         "/runtime.7b63b9fd40098a2e8207.js",
         "/styles.b81fdccc046ccf4347a1.css",
-        "/vendor.4f919d23e5537a2fca99.js"
+        "/vendor.b01d9850959738e54089.js"
       ],
       "patterns": []
     },
@@ -144,14 +144,14 @@
     "/assets/wallpapers/land-8.jpg": "5ae0fbc8aef94ef7fb3632dd725bd11daf56f051",
     "/assets/wallpapers/land-9.jpg": "4f1dc92e4e4e47515b2c87e95d18d8d5b85372ed",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "1cbd3d1c9ee35a2bbf5520325dc137821f68c1ed",
+    "/index.html": "3958d233677c82c7d775ef41394a99352a9baed9",
     "/main.b26875087ab3f07d9d9b.js": "c75b8c8dfcfc2700a6a01de316aa1e8efb667ca9",
     "/manifest.webmanifest": "ad082f33d32e79db5390438f2c2fcfe1cdb0ad55",
     "/owl.video.play.7f01b07148f205f6e825.png": "c0d64356ec2758cb280d183b4829c923e5ff61e5",
     "/polyfills.4c6294a6c8bdfe182842.js": "56468bebab6c4c5d206ac53b6c921398a6cae252",
     "/runtime.7b63b9fd40098a2e8207.js": "9807dfba83b084ad75415db8a55d77467ece2bb1",
     "/styles.b81fdccc046ccf4347a1.css": "f2407061c0f229aa8f2343ce682554e3477dffe0",
-    "/vendor.4f919d23e5537a2fca99.js": "59d6007d9aa760a67781d9533421dff788f2e922"
+    "/vendor.b01d9850959738e54089.js": "8f866a28096e599a3f58c414e458f3cf50fe13ef"
   },
   "navigationUrls": [
     {
